@@ -8,8 +8,8 @@ import (
 	"github.com/so5dz/utils/misc"
 )
 
-const _Software = "SO5DZ_Station_Monitor"
-const _Version = "v0.0.0"
+const _Software = "github_com_so5dz_aprsis"
+const _Version = "v0.1.0"
 
 type PacketCallback func(tnc2Bytes []byte)
 
